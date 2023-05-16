@@ -1,8 +1,8 @@
-## Olá me chamo Victor Reis 👋
+# Olá me chamo Victor Reis 👋
 
 - 🔭 Estou atualmente cursando Ciência da computação e Analise e Desenvolvimento de Sistemas
 - 🌱 Estou atualmente aprendendo Java e C++.
-<hr>
+
 ## GitHub Status:
 <div align="center">
   <a href="https://github.com/Vitelfs">
