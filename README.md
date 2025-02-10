@@ -1,7 +1,8 @@
 # Olá me chamo Victor Reis 👋
 
-- 🔭 Estou atualmente cursando Ciência da computação e Analise e Desenvolvimento de Sistemas
-- 🌱 Estou atualmente aprendendo Java e C++.
+- 🔭 Estou atualmente cursando Ciência da computação
+- 💯 Formado em Desenvolvimento de Sistemas
+- 🌱 Estou atualmente trabalhando como full stack
 
 ## GitHub Status:
 <div align="center">
