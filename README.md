@@ -28,18 +28,3 @@ Docker • Microsservices • Webhooks
 JWT • Firebase Authentication (Google OAuth) • RBAC  
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Vitelfs">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitelfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitelfs&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-📫 **Contact**  
-LinkedIn: linkedin.com/in/victor-reis-519793277  
-Email: victorrfs@gmail.com
