@@ -1,10 +1,25 @@
-# Victor Reis 👨‍💻
+# Victor Reis
 
-Full Stack Software Developer | Backend Specialist
-
-🎓 B.Sc. in Computer Science (In Progress)
-💼 Focused on building scalable web applications, APIs, and high-performance system integrations
+Full Stack Software Developer | Backend Focused
 ---
+
+### 👨‍💻 About Me
+
+I am a Full Stack Software Developer and Systems Development Technician with a strong focus on backend engineering and scalable architectures.
+
+I specialize in building high-performance APIs, microservices-based systems, real-time applications, and robust integrations with external services such as payment gateways and messaging platforms.
+
+Passionate about clean architecture, performance optimization, and production-ready systems, I am constantly improving my skills to design reliable and scalable software solutions.
+
+---
+
+### 🎓 Education
+
+🎓 Systems Development Technician  
+🎓 B.Sc. in Computer Science (In Progress)
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🧠 Programming Languages
@@ -12,8 +27,6 @@ Full Stack Software Developer | Backend Specialist
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
 
 ### ⚙️ Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -24,14 +37,10 @@ Full Stack Software Developer | Backend Specialist
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
-
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Electron](https://img.shields.io/badge/Electron-20232A?style=flat&logo=electron&logoColor=white)
-
----
 
 ### 🗄️ Databases & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -39,10 +48,9 @@ Full Stack Software Developer | Backend Specialist
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
 ### 🖥️ Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 ---
