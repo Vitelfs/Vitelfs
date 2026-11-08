@@ -16,7 +16,7 @@ Passionate about clean architecture, performance optimization, and production-re
 ### 🎓 Education
 
 🎓 Systems Development Technician  
-🎓 B.Sc. in Computer Science (In Progress)
+🎓 B.Sc. in Computer Science
 
 ---
 
